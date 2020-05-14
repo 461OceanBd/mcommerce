@@ -1,4 +1,4 @@
-INSERT INTO PRODUCT (ID , TITRE ,DESCRIPTION ,IMAGE ,PRIX ) VALUES (0, 'Bougie fonctionnant au feu', 'bougie qui fonctionne comme une ampoule mais sans électricité !', 'https://s3.eu-west-3.amazonaws.com/oc-images-cours/bougies.jpg', 22.0);
+INSERT INTO PRODUCT (ID , TITRE ,DESCRIPTION ,IMAGE ,PRIX ) VALUES (0, 'Bougie fonctionnant au feu', 'bougie qui fonctionne comme une ampoule mais sans électricité !', 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/%22Candle%22.JPG/1200px-%22Candle%22.JPG', 22.0);
 
 INSERT INTO PRODUCT (ID , TITRE ,DESCRIPTION ,IMAGE ,PRIX ) VALUES (1, 'Chaise pour s''assoire', 'Chaise rare avec non pas 1 ni 2 mais 3 pieds', 'https://s3.eu-west-3.amazonaws.com/oc-images-cours/chaise.jpg', 95.0);
 
